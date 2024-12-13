@@ -8,7 +8,17 @@ A formação é composta por 8 cursos, totalizando **69 horas** de conteúdo pr�
 Cada pasta deste repositório corresponde a um dos cursos da formação, contendo:  
 - Material das aulas;  
 - Exercícios resolvidos;  
-- Projetos práticos com análises e manipulação de dados.  
+- Projetos práticos com análises e manipulação de dados.
+  
+### Pastas no Repositório:
+- **Manipulacao_strings**: Manipulação de strings e exercícios relacionados.
+- **Numpy**: Conceitos e práticas utilizando a biblioteca NumPy.
+- **Pandas**: Análise de dados com a biblioteca Pandas, incluindo visualização de desafios e descrição no README.
+- **PandasAgrupandoDados**: Exercícios focados em agrupar dados utilizando o Pandas.
+- **Pandasformatos**: Trabalhando com diferentes formatos de dados no Pandas.
+- **PythonData**: Introdução ao Python para manipulação de dados.
+- **limpeza_trat_dados**: Finalizando o curso sobre limpeza e tratamento de dados.
+- **transformação_manipulação**: Transformações e manipulação avançada de dados.
 
 ## Bibliotecas Utilizadas  
 
